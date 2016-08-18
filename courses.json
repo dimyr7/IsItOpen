@@ -1,21 +1,27 @@
 {
-	'year': '2016',
-	'semester': 'Fall',
-	'courses': [
+	"url": "http://courses.illinois.edu/cisapp/explorer/schedule",
+	"year": "2016",
+	"semester": "Fall",
+	"courses": [
 		{
-			'department': 'SHS',
-			'number': '270',
-			'crn': '33104'
+			"department": "SHS",
+			"number": "270",
+			"crn": "33104"
 		},
 		{
-			'department': 'CS',
-			'number': '466',
-			'crn': '51764'
+			"department": "CS",
+			"number": "466",
+			"crn": "51764"
 		},
 		{
-			'department': 'MATH',
-			'number': '441',
-			'crn': '32116'
+			"department": "CS",
+			"number": "466",
+			"crn": "51765"
+		},
+		{
+			"department": "MATH",
+			"number": "441",
+			"crn": "32116"
 		}
 	]
 }
